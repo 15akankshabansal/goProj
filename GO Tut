@@ -1,0 +1,10 @@
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("😍")
+	fmt.Println(`fhvfjvk;flvf;kkl
+	fnfnvfkmvlgfmv,f,gvlg,v,l,vvm`)
+	
+}
